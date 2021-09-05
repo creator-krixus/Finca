@@ -1,0 +1,57 @@
+
+.contenido{
+    background-color:grey;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   
+}
+h2{
+    color: aliceblue;
+}
+
+.cascada{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.textos_cascada{
+    font-size: 30px;
+}
+.fotoIguana{
+    width: 490px;
+    max-width: 100%;
+    max-height: auto;    
+}
+.fotoCascada{
+    width: 490px;
+    max-width: 100%;
+    max-height: auto;
+}
+
+.quiosko{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.textos_quiosko{
+    margin: 0;
+    font-size: 18px;
+}
+.fotoQuiosko{
+    padding-top: 5px;
+    width: 490px;
+    max-width: 100%;
+    height: auto;
+}
+
+.fotoZonaVerde{
+    padding-top: 5px;
+    width: 490px;
+    max-width: 100%;  
+    height: auto; 
+}
+.separador{
+    
+    height: 15px;
+}

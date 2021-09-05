@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #282c34;
+    height: 100px;
+}
+p{
+    padding-top: 30px;
+    color: white;
+    
+}
+a{
+    color: aliceblue;
+    padding-top: 10px;
+    text-decoration: none;
+}

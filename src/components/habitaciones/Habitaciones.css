@@ -1,0 +1,14 @@
+.habitaciones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h1{
+    color: aliceblue;
+}
+.habitacion{
+    padding-top: 5px;
+    width: 440px;
+    max-width: 100%;
+    height: auto;
+}

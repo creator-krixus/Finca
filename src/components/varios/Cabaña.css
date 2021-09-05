@@ -1,0 +1,14 @@
+.cabaña{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.fotoCabaña{
+    padding-top: 5px;
+    width: 440px;
+    max-width: 100%;
+    height: auto;
+}
+h3{
+    color: aliceblue;
+}
