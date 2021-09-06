@@ -5,7 +5,7 @@ import portada from '../../img/portada.jpeg';
 export default function Home() {
     return (
         <div className="portada">
-            <img src={portada} className="foto"/>
+            <img src={portada} className="foto" alt="portada"/>
         </div>
     )
 }

@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer">
             <p>Barbosa Antioquia</p>
             <p>Click sobre el icono de whats up para contactarme</p>
-            <a href="https://api.whatsapp.com/send?phone=+573114191234&text=¡Hola estoy interesado!"><img src={whast} width="100px"/></a>
+            <a href="https://api.whatsapp.com/send?phone=+573114191234&text=¡Hola estoy interesado en alquilar la finca!"><img src={whast} width="100px" alt="whats up"/></a>
         </div>
     )
 }

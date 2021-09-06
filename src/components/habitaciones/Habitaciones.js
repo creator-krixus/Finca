@@ -9,9 +9,9 @@ export default function Habitaciones() {
         <div>
             <h1>Habitaciones</h1>
         <div className="habitaciones">
-            <img src={habitacion} className="habitacion"/>
-            <img src={habitacion2} className="habitacion"/>
-            <img src={habitacion3} className="habitacion"/>
+            <img src={habitacion} className="habitacion" alt="Habitacion"/>
+            <img src={habitacion2} className="habitacion" alt="Habitacion"/>
+            <img src={habitacion3} className="habitacion" alt="Habitacion"/>
         </div>
         </div>
 

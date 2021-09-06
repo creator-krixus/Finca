@@ -24,12 +24,12 @@ export default function Cabaña() {
             <h3>Fogón para azados y sancocho</h3>
             <h3>Para poder ingresar debe estar cancelada</h3>
         <div className="cabaña">
-            <img src={cabaña} className="fotoCabaña"/>
-            <img src={cabaña3} className="fotoCabaña"/>
-            <img src={azador} className="fotoCabaña"/>
-            <img src={cabaña2} className="fotoCabaña"/>
-            <img src={comedor} className="fotoCabaña"/>
-            <img src={cocina} className="fotoCabaña"/>
+            <img src={cabaña} className="fotoCabaña" alt="cabaña"/>
+            <img src={cabaña3} className="fotoCabaña" alt="cabaña"/>
+            <img src={azador} className="fotoCabaña" alt="cabaña"/>
+            <img src={cabaña2} className="fotoCabaña" alt="cabaña"/>
+            <img src={comedor} className="fotoCabaña" alt="cabaña"/>
+            <img src={cocina} className="fotoCabaña" alt="cabaña"/>
         </div>
         </div>
 
