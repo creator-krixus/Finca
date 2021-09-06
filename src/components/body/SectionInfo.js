@@ -15,10 +15,10 @@ export default function SectionInfo() {
                 <div className="cascada">
                     <img src={iguana} className="fotoIguana"/>
                     <div className="textos_cascada">
-                        <p>¡Naturaleza, Autenticida y </p>
-                        <p>Exclusividad</p>
-                        <p>Una experiencia que nunca</p>
-                        <p>olvidaras!</p>
+                        <p>¡Naturaleza, Autenticidad y <br />
+                        Exclusividad<br />
+                        Una experiencia que nunca<br />
+                        olvidaras!</p>
                     </div>
                     <img src={cascada} className="fotoCascada"/>                
                 </div>
@@ -27,9 +27,9 @@ export default function SectionInfo() {
 
                 <div className="quiosko">
                     <div className="textos_quiosko">
-                        <p>Amplio espacio para tus celebraciones</p>
-                        <p>y gran zona verde para que juegues con</p>
-                        <p>tus amigos, familiares o disfrutes del camping</p>
+                        <p>Amplio espacio para tus celebraciones<br />
+                        y gran zona verde para que juegues con<br />
+                        tus amigos, familiares o disfrutes del camping</p>
                     </div>                    
                     <img src={quiosko} className="fotoQuiosko"/>
                     <img src={zonaVerde} className="fotoZonaVerde"/>
