@@ -5,6 +5,7 @@ import zonaVerde from '../../img/zonaVerde.jpeg';
 import iguana from '../../img/iguana.jpeg';
 
 
+
 import './SectionInfo.css';
 
 export default function SectionInfo() {
